@@ -29,4 +29,5 @@ Gem::Specification.new do |spec|
 
   spec.add_dependency 'rails', '>= 5.2.0.rc2'
   spec.add_dependency 'google-api-client', '~> 0.11'
+  spec.add_dependency 'googleauth', '~> 0.6'
 end
